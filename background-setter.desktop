@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Background Setter
+Comment[de]=Mit diesem Skript können Sie zwei Bilder definieren, die sich beim Wechsel des Themas (dunkel/hell) gegenseitig austauschen.
+Comment=With this script you can define two images that swap with each other when you change the theme (dark/light).
+Keywords[de]=Hintergrund;Wallpaper;
+Keywords=Wallpaper;Background;
+OnlyShowIn=GNOME;
+Exec=/usr/local/share/background-setter/background-setter.sh
+Icon=/usr/local/share/background-setter/background-setter_icon.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Core;Utility;Graphics;
